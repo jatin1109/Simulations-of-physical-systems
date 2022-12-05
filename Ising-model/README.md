@@ -33,3 +33,14 @@ Critical temperature: T = 1043K
    
    Be mindful that the term "H" in this reading is equivalent to what we called "h", and that our "H" is "E".
    If the simulation does not agree, why not? Does this depend on if the simulation is run above, below, or at the critical temperature, or on the magnetic field?
+
+
+## Status
+
+
+I consider this project completed for now and am not working on it anymore. However, I am interested in exploring the update step a bit more. While doing the project, I realized that there were multiple ways I could implement the update step. Some conformed with the physical way of thinking, others did not. I would like to see which ones are more efficient.
+
+
+## Running the code
+
+The Jupyter notebook was run on a local machine with Python 3.7. I do not expect it to encounter any errors running anywhere else.
