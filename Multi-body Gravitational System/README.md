@@ -12,3 +12,6 @@ I am not actively working on this project anymore. There is howere some errors w
 
 
 The code notebook was run on a local machine with python 3.9.7 and worked for most of the part. The animation may experience difficulties with online jupyter notebook applications such as Google Colab. 
+
+
+The code is not the most efficient. Since it loops over all the bodies for each update of a single body, we have a runtime complexity of $O(n^2)$ where n is the size of the system i.e., number of bodies we have in the system. 
