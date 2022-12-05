@@ -1,4 +1,7 @@
-##Stochastic Simulations with Cellular Automata
+# Stochastic Simulations with Cellular Automata
 
 The aim of this project was to build stochastic simulations using cellular automata. Previously, I had only worked on deterministic system with a perfectly predictable outcome.
 This is a step into new territory where the update steps are probabilistic. 
+
+
+As an application of this, I chose to experiment with Ising Model and see if I can analyze an Ising system using my simulation.
